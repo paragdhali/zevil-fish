@@ -1,4 +1,4 @@
-# Evil Twin Attack Project
+# Evil Twin Attack Project (WiFi Fishing)
 
 This project is designed to perform an Evil Twin attack, which involves creating a fake WiFi access point to capture credentials and other sensitive information from unsuspecting users.
 
